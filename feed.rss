@@ -2,16 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>William's Blog</title><link>http://example.com/blog/index.html</link>
 <description>A blog about stuff</description><language>en</language>
-<lastBuildDate>Tue, 24 Oct 2017 15:48:07 +1300</lastBuildDate>
-<pubDate>Tue, 24 Oct 2017 15:48:07 +1300</pubDate>
+<lastBuildDate>Tue, 24 Oct 2017 23:04:27 +1300</lastBuildDate>
+<pubDate>Tue, 24 Oct 2017 23:04:27 +1300</pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-    <h3>Here is my first blog post:</h3>
+ Riverside Thursday
 </title><description><![CDATA[
+    <h3>The rest of the text file is an <b>html</b> blog post. The process will
+      continue as soon as you exit your editor.</h3>
+    <p>Just adding <strong><em>an extra</em></strong> bit.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>  
 
 <!-- text end -->
-]]></description><link>http://example.com/blog/----h3here-is-my-first-blog-posth3.html</link>
-<guid>http://example.com/blog/./----h3here-is-my-first-blog-posth3.html</guid>
+]]></description><link>http://example.com/blog/riverside-thursdaybr.html</link>
+<guid>http://example.com/blog/./riverside-thursdaybr.html</guid>
 <dc:creator>William McEwan</dc:creator>
-<pubDate>Tue, 24 Oct 2017 15:48:03 +1300</pubDate></item>
+<pubDate>Tue, 24 Oct 2017 23:02:59 +1300</pubDate></item>
 </channel></rss>
