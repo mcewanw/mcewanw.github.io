@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>William's Blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about stuff</description><language>en</language>
+<lastBuildDate>Tue, 24 Oct 2017 15:48:07 +1300</lastBuildDate>
+<pubDate>Tue, 24 Oct 2017 15:48:07 +1300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+    <h3>Here is my first blog post:</h3>
+</title><description><![CDATA[
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/----h3here-is-my-first-blog-posth3.html</link>
+<guid>http://example.com/blog/./----h3here-is-my-first-blog-posth3.html</guid>
+<dc:creator>William McEwan</dc:creator>
+<pubDate>Tue, 24 Oct 2017 15:48:03 +1300</pubDate></item>
+</channel></rss>
